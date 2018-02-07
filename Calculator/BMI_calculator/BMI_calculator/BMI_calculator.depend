@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509919278 source:d:\it-teknolog\codeblocks\projects\calculator\bmi_calculator\bmi_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
